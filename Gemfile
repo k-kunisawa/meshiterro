@@ -59,4 +59,4 @@ gem 'devise'
 
 gem 'kaminari','~> 1.2.1'
 
-##22章雷インストール済み
+##24章FontAwesomeの導入まで
